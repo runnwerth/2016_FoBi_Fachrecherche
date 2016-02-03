@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {english}
+\beamer@sectionintoc {1}{Lern- und Arbeitsverhalten}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Studentisches Arbeiten}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Wissenschaftliches Arbeiten}{5}{0}{1}
+\beamer@sectionintoc {2}{Informatik}{7}{0}{2}
+\beamer@sectionintoc {3}{Mathematik}{8}{0}{3}
+\beamer@sectionintoc {4}{Fachinformationsdienst Mathematik}{9}{0}{4}
+\beamer@sectionintoc {5}{Anregungen \& Fragen}{10}{0}{5}
