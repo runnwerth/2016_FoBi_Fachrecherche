@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.7)  10 FEB 2016 09:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.7)  11 FEB 2016 09:01
 entering extended mode
 **"C:/Dokumente und Einstellungen/RunnwerthM/Eigene Dateien/Dropbox/FID/2016_Fo
 Bi_Fachrecherche/2016_FoBi_Fachrecherche_MatInf.tex"
@@ -1360,12 +1360,12 @@ Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
 File: graphics/IEEEXplore.png Graphic file (type png)
 
 <use graphics/IEEEXplore.png>
-Package pdftex.def Info: graphics/IEEEXplore.png used on input line 196.
+Package pdftex.def Info: graphics/IEEEXplore.png used on input line 197.
 (pdftex.def)             Requested size: 69.13974pt x 31.31853pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 196.
+ 197.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
 [25
@@ -1373,312 +1373,312 @@ Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
  <./graphics/IEEEXplore.png>]
 File: graphics/IEEEXplore.png Graphic file (type png)
  <use graphics/IEEEXplore.png>
-Package pdftex.def Info: graphics/IEEEXplore.png used on input line 196.
+Package pdftex.def Info: graphics/IEEEXplore.png used on input line 197.
 (pdftex.def)             Requested size: 69.13974pt x 31.31853pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 196.
+ 197.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [26
 
 ]
-<graphics/informatik_analysis.png, id=243, 1003.75pt x 552.0625pt>
+File: graphics/IEEEXplore.png Graphic file (type png)
+ <use graphics/IEEEXplore.png>
+Package pdftex.def Info: graphics/IEEEXplore.png used on input line 197.
+(pdftex.def)             Requested size: 69.13974pt x 31.31853pt.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+
+<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 197.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+ [27
+
+]
+<graphics/informatik_analysis.png, id=249, 1003.75pt x 552.0625pt>
 File: graphics/informatik_analysis.png Graphic file (type png)
 
 <use graphics/informatik_analysis.png>
 Package pdftex.def Info: graphics/informatik_analysis.png used on input line 20
-5.
+6.
 (pdftex.def)             Requested size: 276.559pt x 152.10828pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 205.
+ 206.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [27
+ [28
 
- <./graphics/informatik_analysis.png>] <graphics/informatik_writing.png, id=250
+ <./graphics/informatik_analysis.png>] <graphics/informatik_writing.png, id=256
 , 1000.73875pt x 242.9075pt>
 File: graphics/informatik_writing.png Graphic file (type png)
 
 <use graphics/informatik_writing.png>
-Package pdftex.def Info: graphics/informatik_writing.png used on input line 214
+Package pdftex.def Info: graphics/informatik_writing.png used on input line 215
 .
 (pdftex.def)             Requested size: 245.83282pt x 59.67038pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 214.
+ 215.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [28
+ [29
 
- <./graphics/informatik_writing.png (PNG copy)>] <graphics/OA.jpg, id=257, 3100
+ <./graphics/informatik_writing.png (PNG copy)>] <graphics/OA.jpg, id=263, 3100
 .58376pt x 1119.18124pt>
 File: graphics/OA.jpg Graphic file (type jpg)
 
 <use graphics/OA.jpg>
-Package pdftex.def Info: graphics/OA.jpg used on input line 236.
+Package pdftex.def Info: graphics/OA.jpg used on input line 237.
 (pdftex.def)             Requested size: 69.13974pt x 24.94994pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 236.
+ 237.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [29
+ [30
 
  <./graphics/OA.jpg>]
 File: graphics/OA.jpg Graphic file (type jpg)
  <use graphics/OA.jpg>
-Package pdftex.def Info: graphics/OA.jpg used on input line 236.
+Package pdftex.def Info: graphics/OA.jpg used on input line 237.
 (pdftex.def)             Requested size: 69.13974pt x 24.94994pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 236.
+ 237.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
-[30
+[31
 
 ]
 File: graphics/OA.jpg Graphic file (type jpg)
  <use graphics/OA.jpg>
-Package pdftex.def Info: graphics/OA.jpg used on input line 236.
+Package pdftex.def Info: graphics/OA.jpg used on input line 237.
 (pdftex.def)             Requested size: 69.13974pt x 24.94994pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 236.
+ 237.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [31
+ [32
 
 ]
 File: graphics/OA.jpg Graphic file (type jpg)
 
 <use graphics/OA.jpg>
-Package pdftex.def Info: graphics/OA.jpg used on input line 236.
+Package pdftex.def Info: graphics/OA.jpg used on input line 237.
 (pdftex.def)             Requested size: 69.13974pt x 24.94994pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 236.
+ 237.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [32
+ [33
 
 ]
-<graphics/SocialMedia.jpeg, id=283, 749.04843pt x 799.48688pt>
+<graphics/SocialMedia.jpeg, id=289, 749.04843pt x 799.48688pt>
 File: graphics/SocialMedia.jpeg Graphic file (type jpg)
 
 <use graphics/SocialMedia.jpeg>
-Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 259.
+Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 260.
 (pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 259.
+ 260.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
-[33
+[34
 
  <./graphics/SocialMedia.jpeg>]
 File: graphics/SocialMedia.jpeg Graphic file (type jpg)
  <use graphics/SocialMedia.jpeg>
-Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 259.
+Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 260.
 (pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 259.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [34
-
-]
-File: graphics/SocialMedia.jpeg Graphic file (type jpg)
- <use graphics/SocialMedia.jpeg>
-Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 259.
-(pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
-
-<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 259.
+ 260.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [35
 
 ]
 File: graphics/SocialMedia.jpeg Graphic file (type jpg)
  <use graphics/SocialMedia.jpeg>
-Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 259.
+Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 260.
 (pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 259.
+ 260.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [36
 
 ]
-<graphics/hindex.png, id=312, 301.125pt x 219.82124pt>
+File: graphics/SocialMedia.jpeg Graphic file (type jpg)
+ <use graphics/SocialMedia.jpeg>
+Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 260.
+(pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+
+<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 260.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+ [37
+
+]
+<graphics/hindex.png, id=319, 301.125pt x 219.82124pt>
 File: graphics/hindex.png Graphic file (type png)
 
 <use graphics/hindex.png>
-Package pdftex.def Info: graphics/hindex.png used on input line 283.
+Package pdftex.def Info: graphics/hindex.png used on input line 284.
 (pdftex.def)             Requested size: 107.85782pt x 78.73642pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 283.
+ 284.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [37
+ [38
 
  <./graphics/hindex.png>]
 File: graphics/hindex.png Graphic file (type png)
  <use graphics/hindex.png>
-Package pdftex.def Info: graphics/hindex.png used on input line 283.
+Package pdftex.def Info: graphics/hindex.png used on input line 284.
 (pdftex.def)             Requested size: 107.85782pt x 78.73642pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 283.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [38
-
-]
-File: graphics/hindex.png Graphic file (type png)
- <use graphics/hindex.png>
-Package pdftex.def Info: graphics/hindex.png used on input line 283.
-(pdftex.def)             Requested size: 107.85782pt x 78.73642pt.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
-
-<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 283.
+ 284.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [39
 
 ]
 File: graphics/hindex.png Graphic file (type png)
  <use graphics/hindex.png>
-Package pdftex.def Info: graphics/hindex.png used on input line 283.
+Package pdftex.def Info: graphics/hindex.png used on input line 284.
 (pdftex.def)             Requested size: 107.85782pt x 78.73642pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 283.
+ 284.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [40
 
 ]
 File: graphics/hindex.png Graphic file (type png)
  <use graphics/hindex.png>
-Package pdftex.def Info: graphics/hindex.png used on input line 283.
+Package pdftex.def Info: graphics/hindex.png used on input line 284.
 (pdftex.def)             Requested size: 107.85782pt x 78.73642pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 283.
+ 284.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [41
+
+]
+File: graphics/hindex.png Graphic file (type png)
+ <use graphics/hindex.png>
+Package pdftex.def Info: graphics/hindex.png used on input line 284.
+(pdftex.def)             Requested size: 107.85782pt x 78.73642pt.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+
+<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 284.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+ [42
 
 ]
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 287.
+ 288.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [42
+ [43
 
 ]
-<graphics/mathematik_discover.png, id=355, 952.55875pt x 463.7325pt>
+<graphics/mathematik_discover.png, id=362, 952.55875pt x 463.7325pt>
 File: graphics/mathematik_discover.png Graphic file (type png)
 
 <use graphics/mathematik_discover.png>
 Package pdftex.def Info: graphics/mathematik_discover.png used on input line 29
-6.
+7.
 (pdftex.def)             Requested size: 276.559pt x 134.63464pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 296.
+ 297.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [43
+ [44
 
  <./graphics/mathematik_discover.png (PNG copy)>]
 File: graphics/GoogleScholarLogo.jpg Graphic file (type jpg)
  <use graphics/GoogleScholarLogo.jpg>
-Package pdftex.def Info: graphics/GoogleScholarLogo.jpg used on input line 318.
+Package pdftex.def Info: graphics/GoogleScholarLogo.jpg used on input line 319.
 
 (pdftex.def)             Requested size: 69.13974pt x 29.9602pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 318.
+ 319.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [44
+ [45
 
 ]
 File: graphics/GoogleScholarLogo.jpg Graphic file (type jpg)
 
 <use graphics/GoogleScholarLogo.jpg>
-Package pdftex.def Info: graphics/GoogleScholarLogo.jpg used on input line 318.
+Package pdftex.def Info: graphics/GoogleScholarLogo.jpg used on input line 319.
 
 (pdftex.def)             Requested size: 69.13974pt x 29.9602pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 318.
+ 319.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
-[45
+[46
 
 ]
 File: graphics/GoogleScholarLogo.jpg Graphic file (type jpg)
  <use graphics/GoogleScholarLogo.jpg>
-Package pdftex.def Info: graphics/GoogleScholarLogo.jpg used on input line 318.
+Package pdftex.def Info: graphics/GoogleScholarLogo.jpg used on input line 319.
 
 (pdftex.def)             Requested size: 69.13974pt x 29.9602pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 318.
+ 319.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [46
+ [47
 
 ]
 File: graphics/GoogleScholarLogo.jpg Graphic file (type jpg)
 
 <use graphics/GoogleScholarLogo.jpg>
-Package pdftex.def Info: graphics/GoogleScholarLogo.jpg used on input line 318.
+Package pdftex.def Info: graphics/GoogleScholarLogo.jpg used on input line 319.
 
 (pdftex.def)             Requested size: 69.13974pt x 29.9602pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 318.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
-
-[47
-
-]
-File: graphics/Arxiv.png Graphic file (type png)
- <use graphics/Arxiv.png>
-Package pdftex.def Info: graphics/Arxiv.png used on input line 340.
-(pdftex.def)             Requested size: 69.13974pt x 32.43077pt.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
- <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 340.
+ 319.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
 [48
@@ -1686,12 +1686,12 @@ Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
 ]
 File: graphics/Arxiv.png Graphic file (type png)
  <use graphics/Arxiv.png>
-Package pdftex.def Info: graphics/Arxiv.png used on input line 340.
+Package pdftex.def Info: graphics/Arxiv.png used on input line 341.
 (pdftex.def)             Requested size: 69.13974pt x 32.43077pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 340.
+ 341.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
 [49
@@ -1699,12 +1699,12 @@ Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
 ]
 File: graphics/Arxiv.png Graphic file (type png)
  <use graphics/Arxiv.png>
-Package pdftex.def Info: graphics/Arxiv.png used on input line 340.
+Package pdftex.def Info: graphics/Arxiv.png used on input line 341.
 (pdftex.def)             Requested size: 69.13974pt x 32.43077pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 340.
+ 341.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
 [50
@@ -1712,402 +1712,402 @@ Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
 ]
 File: graphics/Arxiv.png Graphic file (type png)
  <use graphics/Arxiv.png>
-Package pdftex.def Info: graphics/Arxiv.png used on input line 340.
+Package pdftex.def Info: graphics/Arxiv.png used on input line 341.
 (pdftex.def)             Requested size: 69.13974pt x 32.43077pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 340.
+ 341.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
 [51
 
-] <graphics/zbmath_logo.png, id=412, 1003.75pt x 276.03125pt>
-File: graphics/zbmath_logo.png Graphic file (type png)
-
-<use graphics/zbmath_logo.png>
-Package pdftex.def Info: graphics/zbmath_logo.png used on input line 363.
-(pdftex.def)             Requested size: 69.13974pt x 19.01247pt.
+]
+File: graphics/Arxiv.png Graphic file (type png)
+ <use graphics/Arxiv.png>
+Package pdftex.def Info: graphics/Arxiv.png used on input line 341.
+(pdftex.def)             Requested size: 69.13974pt x 32.43077pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 363.
+ 341.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
 [52
 
+] <graphics/zbmath_logo.png, id=418, 1003.75pt x 276.03125pt>
+File: graphics/zbmath_logo.png Graphic file (type png)
+
+<use graphics/zbmath_logo.png>
+Package pdftex.def Info: graphics/zbmath_logo.png used on input line 364.
+(pdftex.def)             Requested size: 69.13974pt x 19.01247pt.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+ <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 364.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+
+[53
+
  <./graphics/zbmath_logo.png>]
 File: graphics/zbmath_logo.png Graphic file (type png)
  <use graphics/zbmath_logo.png>
-Package pdftex.def Info: graphics/zbmath_logo.png used on input line 363.
+Package pdftex.def Info: graphics/zbmath_logo.png used on input line 364.
 (pdftex.def)             Requested size: 69.13974pt x 19.01247pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 363.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [53
-
-]
-File: graphics/zbmath_logo.png Graphic file (type png)
- <use graphics/zbmath_logo.png>
-Package pdftex.def Info: graphics/zbmath_logo.png used on input line 363.
-(pdftex.def)             Requested size: 69.13974pt x 19.01247pt.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
-
-<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 363.
+ 364.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [54
 
 ]
 File: graphics/zbmath_logo.png Graphic file (type png)
  <use graphics/zbmath_logo.png>
-Package pdftex.def Info: graphics/zbmath_logo.png used on input line 363.
+Package pdftex.def Info: graphics/zbmath_logo.png used on input line 364.
 (pdftex.def)             Requested size: 69.13974pt x 19.01247pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 363.
+ 364.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [55
 
 ]
 File: graphics/zbmath_logo.png Graphic file (type png)
  <use graphics/zbmath_logo.png>
-Package pdftex.def Info: graphics/zbmath_logo.png used on input line 363.
+Package pdftex.def Info: graphics/zbmath_logo.png used on input line 364.
 (pdftex.def)             Requested size: 69.13974pt x 19.01247pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 363.
+ 364.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [56
 
 ]
-<graphics/mathscinet-logo.jpg, id=445, 2612.76125pt x 821.0675pt>
+File: graphics/zbmath_logo.png Graphic file (type png)
+ <use graphics/zbmath_logo.png>
+Package pdftex.def Info: graphics/zbmath_logo.png used on input line 364.
+(pdftex.def)             Requested size: 69.13974pt x 19.01247pt.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+
+<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 364.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+ [57
+
+]
+<graphics/mathscinet-logo.jpg, id=451, 2612.76125pt x 821.0675pt>
 File: graphics/mathscinet-logo.jpg Graphic file (type jpg)
 
 <use graphics/mathscinet-logo.jpg>
-Package pdftex.def Info: graphics/mathscinet-logo.jpg used on input line 385.
+Package pdftex.def Info: graphics/mathscinet-logo.jpg used on input line 386.
 (pdftex.def)             Requested size: 69.13974pt x 21.72435pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 385.
+ 386.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
-[57
+[58
 
  <./graphics/mathscinet-logo.jpg>]
 File: graphics/mathscinet-logo.jpg Graphic file (type jpg)
  <use graphics/mathscinet-logo.jpg>
-Package pdftex.def Info: graphics/mathscinet-logo.jpg used on input line 385.
+Package pdftex.def Info: graphics/mathscinet-logo.jpg used on input line 386.
 (pdftex.def)             Requested size: 69.13974pt x 21.72435pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 385.
+ 386.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [58
+ [59
 
 ]
 File: graphics/mathscinet-logo.jpg Graphic file (type jpg)
 
 <use graphics/mathscinet-logo.jpg>
-Package pdftex.def Info: graphics/mathscinet-logo.jpg used on input line 385.
+Package pdftex.def Info: graphics/mathscinet-logo.jpg used on input line 386.
 (pdftex.def)             Requested size: 69.13974pt x 21.72435pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 385.
+ 386.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
-[59
+[60
 
 ]
 File: graphics/mathscinet-logo.jpg Graphic file (type jpg)
  <use graphics/mathscinet-logo.jpg>
-Package pdftex.def Info: graphics/mathscinet-logo.jpg used on input line 385.
+Package pdftex.def Info: graphics/mathscinet-logo.jpg used on input line 386.
 (pdftex.def)             Requested size: 69.13974pt x 21.72435pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 385.
+ 386.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [60
+ [61
 
 ]
-<graphics/wolframalpha-logo.png, id=470, 1027.84pt x 185.69376pt>
+<graphics/wolframalpha-logo.png, id=478, 1027.84pt x 185.69376pt>
 File: graphics/wolframalpha-logo.png Graphic file (type png)
 
 <use graphics/wolframalpha-logo.png>
-Package pdftex.def Info: graphics/wolframalpha-logo.png used on input line 407.
+Package pdftex.def Info: graphics/wolframalpha-logo.png used on input line 409.
 
 (pdftex.def)             Requested size: 69.13974pt x 12.48987pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 407.
+ 409.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
-[61
+[62
 
  <./graphics/wolframalpha-logo.png>]
 File: graphics/wolframalpha-logo.png Graphic file (type png)
  <use graphics/wolframalpha-logo.png>
-Package pdftex.def Info: graphics/wolframalpha-logo.png used on input line 407.
+Package pdftex.def Info: graphics/wolframalpha-logo.png used on input line 409.
 
 (pdftex.def)             Requested size: 69.13974pt x 12.48987pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 407.
+ 409.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [62
+ [63
 
 ]
 File: graphics/wolframalpha-logo.png Graphic file (type png)
 
 <use graphics/wolframalpha-logo.png>
-Package pdftex.def Info: graphics/wolframalpha-logo.png used on input line 407.
+Package pdftex.def Info: graphics/wolframalpha-logo.png used on input line 409.
 
 (pdftex.def)             Requested size: 69.13974pt x 12.48987pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 407.
+ 409.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
-[63
+[64
 
 ]
 File: graphics/wolframalpha-logo.png Graphic file (type png)
  <use graphics/wolframalpha-logo.png>
-Package pdftex.def Info: graphics/wolframalpha-logo.png used on input line 407.
+Package pdftex.def Info: graphics/wolframalpha-logo.png used on input line 409.
 
 (pdftex.def)             Requested size: 69.13974pt x 12.48987pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 407.
+ 409.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [64
+ [65
 
 ]
-<graphics/mathematik_analysis.png, id=497, 1003.75pt x 552.0625pt>
+File: graphics/wolframalpha-logo.png Graphic file (type png)
+
+<use graphics/wolframalpha-logo.png>
+Package pdftex.def Info: graphics/wolframalpha-logo.png used on input line 409.
+
+(pdftex.def)             Requested size: 69.13974pt x 12.48987pt.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+ <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 409.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+
+[66
+
+] <graphics/mathematik_analysis.png, id=514, 1003.75pt x 552.0625pt>
 File: graphics/mathematik_analysis.png Graphic file (type png)
 
 <use graphics/mathematik_analysis.png>
 Package pdftex.def Info: graphics/mathematik_analysis.png used on input line 41
-6.
+8.
 (pdftex.def)             Requested size: 276.559pt x 152.10828pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 416.
+ 418.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [65
+ [67
 
- <./graphics/mathematik_analysis.png>] <graphics/mathematik_writing.png, id=504
+ <./graphics/mathematik_analysis.png>] <graphics/mathematik_writing.png, id=522
 , 796.9775pt x 182.6825pt>
 File: graphics/mathematik_writing.png Graphic file (type png)
 
 <use graphics/mathematik_writing.png>
-Package pdftex.def Info: graphics/mathematik_writing.png used on input line 425
+Package pdftex.def Info: graphics/mathematik_writing.png used on input line 427
 .
 (pdftex.def)             Requested size: 245.83282pt x 56.34944pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 425.
+ 427.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [66
+ [68
 
  <./graphics/mathematik_writing.png (PNG copy)>]
 File: graphics/OA.jpg Graphic file (type jpg)
  <use graphics/OA.jpg>
-Package pdftex.def Info: graphics/OA.jpg used on input line 446.
+Package pdftex.def Info: graphics/OA.jpg used on input line 448.
 (pdftex.def)             Requested size: 69.13974pt x 24.94994pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 446.
+ 448.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
-[67
+[69
 
 ]
 File: graphics/OA.jpg Graphic file (type jpg)
  <use graphics/OA.jpg>
-Package pdftex.def Info: graphics/OA.jpg used on input line 446.
+Package pdftex.def Info: graphics/OA.jpg used on input line 448.
 (pdftex.def)             Requested size: 69.13974pt x 24.94994pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 446.
+ 448.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [68
+ [70
 
 ]
 File: graphics/OA.jpg Graphic file (type jpg)
 
 <use graphics/OA.jpg>
-Package pdftex.def Info: graphics/OA.jpg used on input line 446.
+Package pdftex.def Info: graphics/OA.jpg used on input line 448.
 (pdftex.def)             Requested size: 69.13974pt x 24.94994pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 446.
+ 448.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [69
+ [71
 
 ]
 File: graphics/SocialMedia.jpeg Graphic file (type jpg)
 
 <use graphics/SocialMedia.jpeg>
-Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 468.
+Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 470.
 (pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 468.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
-
-[70
-
-]
-File: graphics/SocialMedia.jpeg Graphic file (type jpg)
- <use graphics/SocialMedia.jpeg>
-Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 468.
-(pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
- <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 468.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
-
-[71
-
-]
-File: graphics/SocialMedia.jpeg Graphic file (type jpg)
- <use graphics/SocialMedia.jpeg>
-Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 468.
-(pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
- <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 468.
+ 470.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
 [72
 
-] <graphics/2014_impact_factor.png, id=552, 677.53125pt x 677.53125pt>
+]
+File: graphics/SocialMedia.jpeg Graphic file (type jpg)
+ <use graphics/SocialMedia.jpeg>
+Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 470.
+(pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+ <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 470.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+
+[73
+
+]
+File: graphics/SocialMedia.jpeg Graphic file (type jpg)
+ <use graphics/SocialMedia.jpeg>
+Package pdftex.def Info: graphics/SocialMedia.jpeg used on input line 470.
+(pdftex.def)             Requested size: 107.85782pt x 115.11137pt.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+ <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 470.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+
+[74
+
+] <graphics/2014_impact_factor.png, id=570, 677.53125pt x 677.53125pt>
 File: graphics/2014_impact_factor.png Graphic file (type png)
 
 <use graphics/2014_impact_factor.png>
-Package pdftex.def Info: graphics/2014_impact_factor.png used on input line 490
+Package pdftex.def Info: graphics/2014_impact_factor.png used on input line 492
 .
 (pdftex.def)             Requested size: 80.20024pt x 80.19405pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 490.
+ 492.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [73
+ [75
 
  <./graphics/2014_impact_factor.png>]
 File: graphics/2014_impact_factor.png Graphic file (type png)
  <use graphics/2014_impact_factor.png>
-Package pdftex.def Info: graphics/2014_impact_factor.png used on input line 490
+Package pdftex.def Info: graphics/2014_impact_factor.png used on input line 492
 .
 (pdftex.def)             Requested size: 80.20024pt x 80.19405pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 490.
+ 492.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [74
+ [76
 
 ]
 File: graphics/2014_impact_factor.png Graphic file (type png)
 
 <use graphics/2014_impact_factor.png>
-Package pdftex.def Info: graphics/2014_impact_factor.png used on input line 490
+Package pdftex.def Info: graphics/2014_impact_factor.png used on input line 492
 .
 (pdftex.def)             Requested size: 80.20024pt x 80.19405pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 490.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [75
-
-]
-<graphics/dreifragezeichen.jpg, id=578, 1927.2pt x 1084.05pt>
-File: graphics/dreifragezeichen.jpg Graphic file (type jpg)
-
-<use graphics/dreifragezeichen.jpg>
-Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 514.
-(pdftex.def)             Requested size: 80.20024pt x 45.10799pt.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
- <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 514.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
-
-[76
-
- <./graphics/dreifragezeichen.jpg>]
-File: graphics/dreifragezeichen.jpg Graphic file (type jpg)
- <use graphics/dreifragezeichen.jpg>
-Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 514.
-(pdftex.def)             Requested size: 80.20024pt x 45.10799pt.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
-
-<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 514.
+ 492.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [77
 
 ]
+<graphics/dreifragezeichen.jpg, id=595, 1927.2pt x 1084.05pt>
 File: graphics/dreifragezeichen.jpg Graphic file (type jpg)
 
 <use graphics/dreifragezeichen.jpg>
-Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 514.
+Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 516.
 (pdftex.def)             Requested size: 80.20024pt x 45.10799pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 514.
+ 516.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
 [78
 
-]
+ <./graphics/dreifragezeichen.jpg>]
 File: graphics/dreifragezeichen.jpg Graphic file (type jpg)
  <use graphics/dreifragezeichen.jpg>
-Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 514.
+Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 516.
 (pdftex.def)             Requested size: 80.20024pt x 45.10799pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 514.
+ 516.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [79
 
@@ -2115,146 +2115,173 @@ Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
 File: graphics/dreifragezeichen.jpg Graphic file (type jpg)
 
 <use graphics/dreifragezeichen.jpg>
-Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 514.
+Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 516.
 (pdftex.def)             Requested size: 80.20024pt x 45.10799pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 514.
+ 516.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
 
 [80
 
 ]
+File: graphics/dreifragezeichen.jpg Graphic file (type jpg)
+ <use graphics/dreifragezeichen.jpg>
+Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 516.
+(pdftex.def)             Requested size: 80.20024pt x 45.10799pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
- <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+
+<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 518.
+ 516.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [81
 
 ]
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+File: graphics/dreifragezeichen.jpg Graphic file (type jpg)
 
-<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+<use graphics/dreifragezeichen.jpg>
+Package pdftex.def Info: graphics/dreifragezeichen.jpg used on input line 516.
+(pdftex.def)             Requested size: 80.20024pt x 45.10799pt.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+ <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 536.
+ 516.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [82
+
+[82
 
 ]
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
-
-<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+ <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 553.
+ 520.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [83
 
 ]
-<graphics/fid.png, id=635, 1441.385pt x 818.05624pt>
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+
+<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 538.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+ [84
+
+]
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+
+<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 555.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+ [85
+
+]
+<graphics/fid.png, id=653, 1441.385pt x 818.05624pt>
 File: graphics/fid.png Graphic file (type png)
  <use graphics/fid.png>
-Package pdftex.def Info: graphics/fid.png used on input line 562.
+Package pdftex.def Info: graphics/fid.png used on input line 564.
 (pdftex.def)             Requested size: 276.559pt x 156.95517pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 562.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [84
-
- <./graphics/fid.png>]
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 580.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 580.
-LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 10.40245pt on input line 580.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
-
-<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 580.
-(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [85
-
-]
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 596.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 596.
-LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 11.39996pt on input line 596.
-File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
-
-<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
-Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 596.
+ 564.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
  [86
 
+ <./graphics/fid.png>]
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 582.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 582.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 10.40245pt on input line 582.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+
+<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 582.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+ [87
+
 ]
-<graphics/fidlogo.png, id=661, 87.4467pt x 24.09pt>
+LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <12> not available
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 598.
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 598.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 11.39996pt on input line 598.
+File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
+
+<use graphics/TIB_Wort_Bildmarke_RGB.pdf>
+Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
+ 598.
+(pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
+ [88
+
+]
+<graphics/fidlogo.png, id=678, 87.4467pt x 24.09pt>
 File: graphics/fidlogo.png Graphic file (type png)
  <use graphics/fidlogo.png>
-Package pdftex.def Info: graphics/fidlogo.png used on input line 618.
+Package pdftex.def Info: graphics/fidlogo.png used on input line 620.
 (pdftex.def)             Requested size: 80.20024pt x 22.09393pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 618.
+ 620.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [87
+ [89
 
  <./graphics/fidlogo.png>]
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
 
 <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 622.
+ 624.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [88
+ [90
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 644--644
+Underfull \hbox (badness 10000) in paragraph at lines 646--646
 
  []
 
-<graphics/questions.png, id=678, 668.4975pt x 501.37312pt>
+<graphics/questions.png, id=695, 668.4975pt x 501.37312pt>
 File: graphics/questions.png Graphic file (type png)
 
 <use graphics/questions.png>
-Package pdftex.def Info: graphics/questions.png used on input line 644.
+Package pdftex.def Info: graphics/questions.png used on input line 646.
 (pdftex.def)             Requested size: 138.2795pt x 103.70784pt.
 File: graphics/TIB_Wort_Bildmarke_RGB.pdf Graphic file (type pdf)
  <use graphics/TIB_Wort_Bildmarke_RGB.pdf>
 Package pdftex.def Info: graphics/TIB_Wort_Bildmarke_RGB.pdf used on input line
- 644.
+ 646.
 (pdftex.def)             Requested size: 61.45306pt x 40.68019pt.
- [89
+ [91
 
  <./graphics/questions.png>]
 \tf@nav=\write6
 \tf@toc=\write7
 \tf@snm=\write8
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 648.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 648.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 650.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 650.
  (2016_FoBi_Fachrecherche_MatInf.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 648.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 648.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 650.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 650.
 Package rerunfilecheck Info: File `2016_FoBi_Fachrecherche_MatInf.out' has not 
 changed.
 (rerunfilecheck)             Checksum: AEE08C90D3D908E90DF40A4017B11AAA;281.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 648.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 650.
  ) 
 Here is how much of TeX's memory you used:
- 20831 strings out of 493671
- 402328 string characters out of 3147062
- 478200 words of memory out of 3000000
- 23477 multiletter control sequences out of 15000+200000
+ 20841 strings out of 493671
+ 402518 string characters out of 3147062
+ 478294 words of memory out of 3000000
+ 23483 multiletter control sequences out of 15000+200000
  45336 words of font info for 58 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  62i,14n,61p,535b,791s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2262,10 +2289,10 @@ Here is how much of TeX's memory you used:
 ts/type1/urw/helvetic/uhvb8a.pfb><C:/Programme/MikTeX/fonts/type1/urw/helvetic/
 uhvbo8a.pfb><C:/Programme/MikTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Progra
 mme/MikTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on 2016_FoBi_Fachrecherche_MatInf.pdf (89 pages, 4244018 bytes).
+Output written on 2016_FoBi_Fachrecherche_MatInf.pdf (91 pages, 4249417 bytes).
 
 PDF statistics:
- 744 PDF objects out of 1000 (max. 8388607)
- 184 named destinations out of 1000 (max. 500000)
+ 763 PDF objects out of 1000 (max. 8388607)
+ 188 named destinations out of 1000 (max. 500000)
  218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
