@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.7)  11 FEB 2016 09:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.7)  10 MAR 2016 12:03
 entering extended mode
 **"C:/Dokumente und Einstellungen/RunnwerthM/Eigene Dateien/Dropbox/FID/2016_Fo
 Bi_Fachrecherche/2016_FoBi_Fachrecherche_MatInf.tex"
@@ -2280,7 +2280,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 650.
 Here is how much of TeX's memory you used:
  20841 strings out of 493671
  402518 string characters out of 3147062
- 478294 words of memory out of 3000000
+ 478304 words of memory out of 3000000
  23483 multiletter control sequences out of 15000+200000
  45336 words of font info for 58 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -2289,7 +2289,7 @@ Here is how much of TeX's memory you used:
 ts/type1/urw/helvetic/uhvb8a.pfb><C:/Programme/MikTeX/fonts/type1/urw/helvetic/
 uhvbo8a.pfb><C:/Programme/MikTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Progra
 mme/MikTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on 2016_FoBi_Fachrecherche_MatInf.pdf (91 pages, 4249417 bytes).
+Output written on 2016_FoBi_Fachrecherche_MatInf.pdf (91 pages, 4249152 bytes).
 
 PDF statistics:
  763 PDF objects out of 1000 (max. 8388607)
